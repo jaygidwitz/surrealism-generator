@@ -1,7 +1,7 @@
 Surrealism Generator
 ==========================
 
-[Live demo](http://sebpearce.com/bullshit)
+[Live demo](http://generator.surrealismtoday.com/)
 
 Does what it says on the box :) Written in JS, using jQuery.
 
