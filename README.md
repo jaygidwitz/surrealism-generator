@@ -1,4 +1,4 @@
-New Age Bullshit Generator
+Surrealism Generator
 ==========================
 
 [Live demo](http://sebpearce.com/bullshit)
